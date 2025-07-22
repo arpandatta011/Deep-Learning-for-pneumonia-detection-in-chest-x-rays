@@ -1,4 +1,4 @@
-# 🩺 Deep-Learning-for-pneumonia-detection-in-chest-x-rays
+# Deep-Learning-for-pneumonia-detection-in-chest-x-rays
 
 <p align="center">
   <img src="images/image1.png" alt="Chest X-ray Sample" width="800" height="800"/>
